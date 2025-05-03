@@ -1,0 +1,12 @@
+# Ignore all files starting with "process"
+process*
+
+# Exclude the folder "MTO-329"
+MTO-329/
+
+2*/
+
+# exlude all file end with ".log" and ".png"
+*.log
+*.png
+*.mcdx
